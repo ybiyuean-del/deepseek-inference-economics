@@ -1,0 +1,13 @@
+.Rhistory
+.RData
+.Ruserdata
+.Renviron
+.Rprofile
+rsconnect/
+renv/library/
+renv/staging/
+*.xlsx
+raw/
+local/
+*.zip
+.DS_Store
