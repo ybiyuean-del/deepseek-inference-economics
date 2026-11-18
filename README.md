@@ -73,7 +73,7 @@ This exported chart uses the same baseline model. A dashboard screenshot is not 
 
 ## Authorship
 
-The original research question, public-data collection, Excel model and analysis were developed independently by Biyue Yan. The Shiny implementation and reproducibility tooling were prepared with AI assistance. No affiliation or corporate endorsement is implied.
+This is an independent research project by Biyue Yan, who selected the research question, collected the public source data and directed the analysis. Codex assisted with building the original Excel model, as well as developing the R Shiny dashboard, calculation tests, reproducibility tooling and project documentation. No affiliation or corporate endorsement is implied.
 
 ## License
 
