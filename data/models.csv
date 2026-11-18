@@ -1,0 +1,3 @@
+model,result_id,gpus,throughput,input_tokens,output_tokens,engine,precision,concurrency,interactivity,benchmark_date,technical_cache,peak_hit,off_hit,peak_miss,off_miss,peak_output,off_output
+V4.1 Flash,442167,4,368293.56846,1464162825,9705995,vllm,fp4,64,87.26003490401396,2026-09-15,0.9509785687180605,0.006,0.003,0.3,0.15,1.2,0.6
+V4 Pro 0813,442268,8,411403.20261,1785464249,12295492,sglang,fp4,160,54.824561403508774,2026-09-16,0.9276366903533125,0.044,0.022,1.32,0.66,3.96,1.98

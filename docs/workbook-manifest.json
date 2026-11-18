@@ -1,0 +1,93 @@
+{
+  "sha256": "fcaf67cc0bfdd77a1e1d7fc48b07f40aab286eba9043299c8d3117b337c625bb",
+  "snapshot": "2026-09-16",
+  "sheets": [
+    {
+      "name": "Dashboard",
+      "rows": 40,
+      "columns": 19
+    },
+    {
+      "name": "Sheet 1 \u2014 Inputs & Sources",
+      "rows": 42,
+      "columns": 7
+    },
+    {
+      "name": "Unit_Economics",
+      "rows": 93,
+      "columns": 6
+    },
+    {
+      "name": "Pricing_Cache",
+      "rows": 124,
+      "columns": 6
+    },
+    {
+      "name": "API_Portfolio",
+      "rows": 33,
+      "columns": 10
+    },
+    {
+      "name": "BreakEven_Scale",
+      "rows": 66,
+      "columns": 9
+    },
+    {
+      "name": "Input&Output Token>>>",
+      "rows": 1,
+      "columns": 1
+    },
+    {
+      "name": "Aggregate input & output token ",
+      "rows": 14279,
+      "columns": 7
+    },
+    {
+      "name": "Cache Analysis>>>",
+      "rows": 1,
+      "columns": 1
+    },
+    {
+      "name": "Summary",
+      "rows": 40,
+      "columns": 6
+    },
+    {
+      "name": "Raw and calculation",
+      "rows": 5160,
+      "columns": 25
+    },
+    {
+      "name": "Field definitions",
+      "rows": 30,
+      "columns": 5
+    },
+    {
+      "name": "Run Cost>>>",
+      "rows": 1,
+      "columns": 1
+    },
+    {
+      "name": "B200 Run Costs",
+      "rows": 67,
+      "columns": 6
+    },
+    {
+      "name": "B200 Run Inputs",
+      "rows": 62,
+      "columns": 6
+    },
+    {
+      "name": "B200 Raw Tokens",
+      "rows": 14273,
+      "columns": 7
+    },
+    {
+      "name": "B200 Cache Telemetry",
+      "rows": 11569,
+      "columns": 18
+    }
+  ],
+  "formula_count": 105475,
+  "cached_errors": []
+}

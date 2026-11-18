@@ -1,0 +1,34 @@
+sheet,cell,url
+Dashboard,A18,
+Dashboard,H18,
+Dashboard,H28,
+Dashboard,A30,
+Dashboard,C38,
+Dashboard,E38,
+Dashboard,H38,
+Dashboard,J38,
+Dashboard,L38,
+Sheet 1 — Inputs & Sources,G3,https://api-docs.deepseek.com/quick_start/pricing/?utm_source=chatgpt.com
+Sheet 1 — Inputs & Sources,G4,https://api-docs.deepseek.com/quick_start/pricing/?utm_source=chatgpt.com
+Sheet 1 — Inputs & Sources,G5,https://api-docs.deepseek.com/quick_start/pricing/?utm_source=chatgpt.com
+Sheet 1 — Inputs & Sources,G6,https://api-docs.deepseek.com/quick_start/pricing/?utm_source=chatgpt.com
+Sheet 1 — Inputs & Sources,G7,https://api-docs.deepseek.com/quick_start/pricing/?utm_source=chatgpt.com
+Sheet 1 — Inputs & Sources,G8,https://api-docs.deepseek.com/quick_start/pricing/?utm_source=chatgpt.com
+Sheet 1 — Inputs & Sources,G9,https://api-docs.deepseek.com/quick_start/pricing/?utm_source=chatgpt.com
+Sheet 1 — Inputs & Sources,E39,https://www.reuters.com/legal/government/chinas-deepseek-hires-dealmaker-cfo-ahead-possible-ipo-2026-09-14/?utm_source=chatgpt.com
+Sheet 1 — Inputs & Sources,E40,https://www.ft.com/content/5e23e1bc-e340-4c51-bcce-77cf2ec5ebe0?utm_source=chatgpt.com
+Sheet 1 — Inputs & Sources,E41,https://www.ft.com/content/5e23e1bc-e340-4c51-bcce-77cf2ec5ebe0?utm_source=chatgpt.com
+Field definitions,B12,https://github.com/SemiAnalysisAI/InferenceX-app/blob/dfefa93/packages/db/src/etl/compute-chart-series.ts
+Field definitions,B13,https://github.com/SemiAnalysisAI/InferenceX-app/blob/dfefa93/packages/app/src/components/inference/agentic-point/time-series-chart.tsx
+Field definitions,B14,https://github.com/SemiAnalysisAI/InferenceX-app/blob/dfefa93/packages/db/src/etl/trace-replay-ingest.ts
+Field definitions,B28,https://inferencex.semianalysis.com/api/v1/trace-histograms?ids=442167
+Field definitions,B29,https://inferencex.semianalysis.com/api/v1/trace-server-metrics?id=442167
+Field definitions,B30,https://github.com/SemiAnalysisAI/InferenceX-app/blob/dfefa93/packages/constants/src/models.ts
+B200 Run Inputs,B39,https://github.com/SemiAnalysisAI/InferenceX/actions/runs/35012527430/attempts/1
+B200 Run Inputs,C39,https://github.com/SemiAnalysisAI/InferenceX/actions/runs/34603861241/attempts/1
+B200 Run Inputs,B43,https://inferencex.semianalysis.com/api/v1/benchmarks?model=DeepSeek-V4.1-Flash&runId=35012527430&exactRun=true
+B200 Run Inputs,B44,https://inferencex.semianalysis.com/api/v1/benchmarks?model=DeepSeek-V4-Pro&runId=34603861241&exactRun=true
+B200 Run Inputs,B45,https://inferencex.semianalysis.com/run/deepseek-v4-on-b200
+B200 Run Inputs,B46,https://github.com/SemiAnalysisAI/InferenceX-app/blob/dfefa93/packages/app/src/lib/chart-utils.ts#L436
+B200 Run Inputs,B47,https://github.com/SemiAnalysisAI/InferenceX-app/blob/dfefa93/packages/app/src/lib/chart-utils.ts#L324
+B200 Run Inputs,B48,https://github.com/SemiAnalysisAI/InferenceX-app/blob/dfefa93/packages/constants/src/gpu-keys.ts#L55
