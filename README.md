@@ -73,4 +73,8 @@ This exported chart uses the same baseline model. A dashboard screenshot is not 
 
 ## Authorship
 
-The original research question, public-data collection, Excel model and analysis were developed independently by Biyue Yan. The Shiny implementation and reproducibility tooling were prepared with AI assistance. No affiliation or corporate endorsement is implied. Source code is available for review; no blanket license is granted over third-party data.
+The original research question, public-data collection, Excel model and analysis were developed independently by Biyue Yan. The Shiny implementation and reproducibility tooling were prepared with AI assistance. No affiliation or corporate endorsement is implied.
+
+## License
+
+Original project code and accompanying documentation are licensed under the [MIT License](LICENSE), copyright 2026 Biyue Yan. Third-party benchmark data, pricing data, and dependencies are excluded from this license and remain subject to their respective rights and terms. Inclusion of aggregate values or source links does not grant redistribution rights to upstream datasets.
