@@ -8,4 +8,4 @@ Fixtures include 14 model metrics, seven portfolio metrics, ten annual scale req
 
 All 17 sheets were inspected and 105,475 formula caches scanned with no standard cached Excel errors. This scan is separate from the 97 model checks and is not a full mathematical audit.
 
-Initial local browser navigation to loopback timed out. Server-side chart/table rendering succeeded. See the completion message and screenshots for any later online browser verification.
+Local and online automated browser navigation timed out. Server-side chart/table rendering succeeded. On 2026-11-18, shinyapps.io task 1774034995 completed successfully, application 18472741 reported `running`, and the public page returned HTTP 200 containing the expected app title. Real browser interactions, visual screenshots and mobile layout remain unverified. The exported baseline chart is a chart artifact, not a screenshot of the live app.

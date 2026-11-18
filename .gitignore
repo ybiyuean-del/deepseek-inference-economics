@@ -11,3 +11,4 @@ raw/
 local/
 *.zip
 .DS_Store
+manifest.json

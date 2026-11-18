@@ -65,9 +65,11 @@ Runtime uses two small CSV files; interactive changes never open or recalculate 
 
 See [deployment instructions](docs/DEPLOYMENT.md). No keys or deployment credentials belong in this repository.
 
-## Screenshots
+## Baseline chart
 
-Screenshots are provided in `docs/` when browser verification succeeds. Read validation notes for the exact scope of performed checks.
+![Baseline unit economics](docs/unit-economics.png)
+
+This exported chart uses the same baseline model. A dashboard screenshot is not included because automated browser navigation timed out. The deployed server reports running and its public page returns HTTP 200; visual browser and mobile verification remain outstanding.
 
 ## Authorship
 
